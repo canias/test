@@ -28,6 +28,3 @@ WHERE actor_id < 10
 
 
 # conn.commit()
-lmap = 0 | @
-print("introducir numero, ahora es {lmap}".format())
-print(lmap)
